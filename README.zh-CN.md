@@ -27,7 +27,7 @@ StarBox 是一款本地运行的 ChatGPT/Codex 账号管理桌面应用，支持
 
 StarBox 源代码采用 [Apache License 2.0](./LICENSE) 开源。按照许可证条款，可以在 Linux、Windows、macOS 及其他平台上使用、修改、分发和商业使用。
 
-不得使用 StarBox 名称、Logo 或官方发行标识来暗示官方认可或官方身份。归属和品牌说明见 [NOTICE](./NOTICE)，参与贡献请参阅 [CONTRIBUTING.md](./CONTRIBUTING.md)。
+不得使用 StarBox 名称、Logo 或官方发行标识来暗示官方认可或官方身份。归属和品牌说明见 [NOTICE](./NOTICE)，参与贡献请参阅 [CONTRIBUTING.md](./.github/CONTRIBUTING.md)。
 
 ## 从源码构建
 
@@ -41,7 +41,7 @@ npm run build
 
 ## 致谢
 
-StarBox 的开发离不开优秀的开源项目和技术。详情请参阅[致谢名单](./ACKNOWLEDGEMENTS.md)与[第三方软件声明](./THIRD_PARTY_NOTICES.md)。
+StarBox 的开发离不开优秀的开源项目和技术。详情请参阅[致谢名单](./docs/ACKNOWLEDGEMENTS.md)与[第三方软件声明](./docs/legal/THIRD_PARTY_NOTICES.md)。
 
 ## 社区致谢
 
@@ -49,9 +49,9 @@ StarBox 的开发离不开优秀的开源项目和技术。详情请参阅[致�
 
 ## 法律、隐私与安全
 
-- [最终用户许可协议（中英双语）](./EULA.txt)
-- [最终用户许可协议（英文）](./EULA_EN.txt)
-- [隐私政策](./PRIVACY.md)
-- [安全政策与漏洞报告](./SECURITY.md)
+- [最终用户许可协议（中英双语）](./docs/legal/EULA.txt)
+- [最终用户许可协议（英文）](./docs/legal/EULA_EN.txt)
+- [隐私政策](./docs/legal/PRIVACY.md)
+- [安全政策与漏洞报告](./.github/SECURITY.md)
 
 StarBox 是独立开发的第三方项目，与 OpenAI 不存在隶属、赞助、授权或官方合作关系。“OpenAI”、“ChatGPT”和“Codex”是其各自权利人的商标。

@@ -27,7 +27,7 @@ Use StarBox to manage multiple accounts, view quotas and available models, track
 
 StarBox source code is licensed under the [Apache License 2.0](./LICENSE). The license permits use, modification, distribution, and commercial use on Linux, Windows, macOS, and other platforms, subject to its terms.
 
-The StarBox name, logo, and official release identifiers may not be used to imply endorsement or official status. See [NOTICE](./NOTICE) for attribution and branding information and [CONTRIBUTING.md](./CONTRIBUTING.md) to contribute.
+The StarBox name, logo, and official release identifiers may not be used to imply endorsement or official status. See [NOTICE](./NOTICE) for attribution and branding information and [CONTRIBUTING.md](./.github/CONTRIBUTING.md) to contribute.
 
 ## Build from Source
 
@@ -41,7 +41,7 @@ npm run build
 
 ## Acknowledgements
 
-StarBox is built with the help of excellent open-source projects and technologies. See [Acknowledgements](./ACKNOWLEDGEMENTS.md) and [Third-Party Notices](./THIRD_PARTY_NOTICES.md) for details.
+StarBox is built with the help of excellent open-source projects and technologies. See [Acknowledgements](./docs/ACKNOWLEDGEMENTS.md) and [Third-Party Notices](./docs/legal/THIRD_PARTY_NOTICES.md) for details.
 
 ## Community Acknowledgements
 
@@ -49,9 +49,9 @@ Thanks to the [Linux.do](https://linux.do/) community for promoting the project 
 
 ## Legal, Privacy, and Security
 
-- [End User License Agreement (Bilingual)](./EULA.txt)
-- [End User License Agreement (English)](./EULA_EN.txt)
-- [Privacy Policy](./PRIVACY.md)
-- [Security Policy and Vulnerability Reporting](./SECURITY.md)
+- [End User License Agreement (Bilingual)](./docs/legal/EULA.txt)
+- [End User License Agreement (English)](./docs/legal/EULA_EN.txt)
+- [Privacy Policy](./docs/legal/PRIVACY.md)
+- [Security Policy and Vulnerability Reporting](./.github/SECURITY.md)
 
 StarBox is an independent project and is not affiliated with, endorsed by, or sponsored by OpenAI. OpenAI, ChatGPT, and Codex are trademarks of their respective owners.

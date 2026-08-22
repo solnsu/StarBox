@@ -78,11 +78,11 @@
         "to": "icon.png"
       },
       {
-        "from": "EULA.txt",
+        "from": "docs/legal/EULA.txt",
         "to": "EULA.txt"
       },
       {
-        "from": "EULA_EN.txt",
+        "from": "docs/legal/EULA_EN.txt",
         "to": "EULA_EN.txt"
       },
       {
@@ -94,19 +94,19 @@
         "to": "NOTICE"
       },
       {
-        "from": "ACKNOWLEDGEMENTS.md",
+        "from": "docs/ACKNOWLEDGEMENTS.md",
         "to": "ACKNOWLEDGEMENTS.md"
       },
       {
-        "from": "THIRD_PARTY_NOTICES.md",
+        "from": "docs/legal/THIRD_PARTY_NOTICES.md",
         "to": "THIRD_PARTY_NOTICES.md"
       },
       {
-        "from": "PRIVACY.md",
+        "from": "docs/legal/PRIVACY.md",
         "to": "PRIVACY.md"
       },
       {
-        "from": "SECURITY.md",
+        "from": ".github/SECURITY.md",
         "to": "SECURITY.md"
       }
     ],
@@ -161,10 +161,10 @@
       "allowToChangeInstallationDirectory": true,
       "createDesktopShortcut": true,
       "createStartMenuShortcut": true,
-      "license": "EULA.txt"
+      "license": "docs/legal/EULA.txt"
     },
     "dmg": {
-      "license": "EULA_EN.txt"
+      "license": "docs/legal/EULA_EN.txt"
     }
   }
 }
