@@ -43,6 +43,10 @@ npm run build
 
 StarBox 的开发离不开优秀的开源项目和技术。详情请参阅[致谢名单](./ACKNOWLEDGEMENTS.md)与[第三方软件声明](./THIRD_PARTY_NOTICES.md)。
 
+## 社区致谢
+
+感谢 [Linux.do](https://linux.do/) 社区对本项目的推广、反馈与支持。
+
 ## 法律、隐私与安全
 
 - [最终用户许可协议（中英双语）](./EULA.txt)
