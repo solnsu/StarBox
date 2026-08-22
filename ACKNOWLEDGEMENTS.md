@@ -20,10 +20,6 @@ StarBox 的开发离不开以下优秀的开源项目和技术：
 
 感谢这些项目的作者和贡献者对开源社区所作出的贡献。
 
-### 社区致谢
-
-感谢 [Linux.do](https://linux.do/) 社区对本项目的推广、反馈与支持。
-
 ### 独立项目声明
 
 StarBox 是一个独立开发的第三方项目，与 OpenAI 不存在隶属、赞助、授权或官方合作关系。
@@ -48,10 +44,6 @@ StarBox is built with the help of the following outstanding open-source projects
 
 We sincerely thank the authors and contributors of these projects for their work and contributions to the open-source community.
 
-### Community Acknowledgements
-
-Thanks to the [Linux.do](https://linux.do/) community for promoting the project and providing valuable feedback and support.
-
 ### Independent Project Disclaimer
 
 StarBox is an independently developed third-party project and is not affiliated with, sponsored by, authorized by, or officially endorsed by OpenAI.
@@ -60,4 +52,3 @@ StarBox is an independently developed third-party project and is not affiliated 
 
 Project website: https://github.com/solnsu/StarBox  
 Email: soln0708@163.com
-
