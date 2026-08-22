@@ -43,9 +43,11 @@ npm run build
 
 StarBox is built with the help of excellent open-source projects and technologies. See [Acknowledgements](./ACKNOWLEDGEMENTS.md) and [Third-Party Notices](./THIRD_PARTY_NOTICES.md) for details.
 
-## Community Acknowledgements / 社区致谢
+## Community Acknowledgements
 
 Thanks to the [Linux.do](https://linux.do/) community for promoting the project and providing valuable feedback and support.
+
+## 社区致谢
 
 感谢 [Linux.do](https://linux.do/) 社区对本项目的推广、反馈与支持。
 
