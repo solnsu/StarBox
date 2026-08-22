@@ -1,0 +1,40 @@
+StarBox Open Source Software Notice
+
+Effective Date: 2026-08-21
+
+Copyright 2026 solnsu.
+
+1. Open Source License
+
+StarBox source code is made available under the Apache License, Version 2.0 ("Apache-2.0"). You may use, reproduce, modify, distribute, and commercially use StarBox in accordance with that license. The complete license is included with the Software and is also available at:
+
+https://www.apache.org/licenses/LICENSE-2.0
+
+2. Official Distributions and Branding
+
+Apache-2.0 does not grant permission to use the StarBox name, logo, official release identifiers, or other branding to imply that a modified version is endorsed, sponsored, or provided by solnsu. The StarBox name may be used reasonably to describe the software's origin. Modified or third-party distributions must clearly identify their changes and unofficial status and must not impersonate an official StarBox release.
+
+3. Third-Party Components
+
+StarBox contains or uses third-party software, fonts, frameworks, and other components. Those components remain subject to their respective licenses, copyright notices, and terms. See THIRD_PARTY_NOTICES.md for details.
+
+4. Accounts and Credentials
+
+StarBox may process or store authentication information, access tokens, account configurations, request records, and other sensitive data locally on the user's device. Users are responsible for protecting their devices, accounts, and credentials and must only use accounts and services they are authorized to access. The open-source license does not grant access to any third-party account, service, or data.
+
+5. Third-Party Services
+
+StarBox may interact with OpenAI, ChatGPT, Codex, and other third-party services. Use of those services remains subject to the applicable provider's terms, policies, technical restrictions, and account rules. StarBox is an independently developed third-party project and is not affiliated with, sponsored by, authorized by, or officially partnered with OpenAI.
+
+6. Privacy and Local Data
+
+StarBox's local data practices are described in PRIVACY.md. Before sharing logs, databases, screenshots, or issue reports, users should remove access tokens, refresh tokens, account identifiers, and other sensitive information.
+
+7. Disclaimer and Limitation of Liability
+
+Unless required by applicable law or separately agreed in writing, StarBox is provided on an "AS IS" basis, without warranties or conditions of any kind, express or implied. Users are responsible for determining whether the Software is appropriate for their purposes and assume the risks of using, modifying, or distributing it. Sections 7 and 8 of Apache-2.0 govern warranty disclaimers and limitations of liability.
+
+8. Project Information
+
+Project website: https://github.com/solnsu/StarBox
+Email: soln0708@163.com

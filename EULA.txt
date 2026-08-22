@@ -1,0 +1,58 @@
+StarBox 开源软件声明
+StarBox Open Source Software Notice
+
+生效日期 / Effective Date: 2026-08-21
+
+版权所有 © 2026 solnsu。
+Copyright © 2026 solnsu.
+
+1. 开源许可 / Open Source License
+
+StarBox 源代码依据 Apache License, Version 2.0（“Apache-2.0”）提供。用户可以按照该许可证使用、复制、修改、分发和商业使用 StarBox。许可证完整文本随软件提供，亦可在以下地址查阅：
+
+https://www.apache.org/licenses/LICENSE-2.0
+
+StarBox source code is made available under the Apache License, Version 2.0 ("Apache-2.0"). You may use, reproduce, modify, distribute, and commercially use StarBox in accordance with that license. The complete license is included with the Software and is also available at:
+
+https://www.apache.org/licenses/LICENSE-2.0
+
+2. 官方发行与品牌 / Official Distributions and Branding
+
+Apache-2.0 不授予使用 StarBox 名称、Logo、官方发行标识或其他品牌元素来暗示 solnsu 认可、赞助或提供某个修改版本的权利。用户可以合理使用 StarBox 名称说明软件来源。修改版或第三方发行版必须清楚说明其修改和非官方性质，不得冒充 StarBox 官方版本。
+
+Apache-2.0 does not grant permission to use the StarBox name, logo, official release identifiers, or other branding to imply that a modified version is endorsed, sponsored, or provided by solnsu. The StarBox name may be used reasonably to describe the software's origin. Modified or third-party distributions must clearly identify their changes and unofficial status and must not impersonate an official StarBox release.
+
+3. 第三方组件 / Third-Party Components
+
+StarBox 包含或使用第三方软件、字体、框架和其他组件。第三方组件继续适用其各自的许可证、版权声明和使用条款。相关信息见随软件提供的 THIRD_PARTY_NOTICES.md。
+
+StarBox contains or uses third-party software, fonts, frameworks, and other components. Those components remain subject to their respective licenses, copyright notices, and terms. See THIRD_PARTY_NOTICES.md for details.
+
+4. 账号与凭据 / Accounts and Credentials
+
+StarBox 可能在用户设备本地处理或存储认证信息、访问令牌、账号配置、请求记录及其他敏感数据。用户应保护其设备、账号和凭据，并仅使用其有权访问的账号和服务。开源许可证不授予任何第三方账号、服务或数据的访问权限。
+
+StarBox may process or store authentication information, access tokens, account configurations, request records, and other sensitive data locally on the user's device. Users are responsible for protecting their devices, accounts, and credentials and must only use accounts and services they are authorized to access. The open-source license does not grant access to any third-party account, service, or data.
+
+5. 第三方服务 / Third-Party Services
+
+StarBox 可与 OpenAI、ChatGPT、Codex 及其他第三方服务交互。用户使用这些服务时仍须遵守相应服务提供方的条款、政策、技术限制和账号规则。StarBox 是独立开发的第三方项目，与 OpenAI 不存在隶属、赞助、授权或官方合作关系。
+
+StarBox may interact with OpenAI, ChatGPT, Codex, and other third-party services. Use of those services remains subject to the applicable provider's terms, policies, technical restrictions, and account rules. StarBox is an independently developed third-party project and is not affiliated with, sponsored by, authorized by, or officially partnered with OpenAI.
+
+6. 隐私与本地数据 / Privacy and Local Data
+
+StarBox 的本地数据处理方式见随软件提供的 PRIVACY.md。用户在共享日志、数据库、截图或问题报告前，应删除访问令牌、刷新令牌、账号标识及其他敏感信息。
+
+StarBox's local data practices are described in PRIVACY.md. Before sharing logs, databases, screenshots, or issue reports, users should remove access tokens, refresh tokens, account identifiers, and other sensitive information.
+
+7. 无担保与责任限制 / Disclaimer and Limitation of Liability
+
+除非适用法律另有要求或权利人另行书面同意，StarBox 按“现状”提供，不附带任何明示或默示担保。用户自行判断软件是否适合其用途，并承担使用、修改或分发软件的风险。责任限制以 Apache-2.0 第 7 条和第 8 条为准。
+
+Unless required by applicable law or separately agreed in writing, StarBox is provided on an "AS IS" basis, without warranties or conditions of any kind, express or implied. Users are responsible for determining whether the Software is appropriate for their purposes and assume the risks of using, modifying, or distributing it. Sections 7 and 8 of Apache-2.0 govern warranty disclaimers and limitations of liability.
+
+8. 项目信息 / Project Information
+
+项目主页 / Project website: https://github.com/solnsu/StarBox
+电子邮箱 / Email: soln0708@163.com

@@ -1,0 +1,35 @@
+name: Microsoft Store Package
+
+on:
+  workflow_dispatch:
+  push:
+    tags:
+      - 'store-v*'
+
+permissions:
+  contents: read
+
+jobs:
+  package:
+    runs-on: windows-latest
+    env:
+      MSIX_IDENTITY_NAME: ${{ vars.MSIX_IDENTITY_NAME }}
+      MSIX_PUBLISHER: ${{ vars.MSIX_PUBLISHER }}
+      MSIX_PUBLISHER_DISPLAY_NAME: ${{ vars.MSIX_PUBLISHER_DISPLAY_NAME }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run verify:store
+      - run: npm run desktop:dist:store
+      - uses: actions/upload-artifact@v4
+        with:
+          name: microsoft-store-msix
+          path: |
+            release/*.appx
+            release/*.msix
+            release/*.appxupload
+          if-no-files-found: error
